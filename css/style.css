@@ -4,7 +4,7 @@
 }
 header{
   height: 100vh;
-  background: linear-gradient(rgba(6,0,0,0.5),rgba(6,0,0,0.5)),url('../images/donation6.jpg');
+  background: linear-gradient(rgba(6,0,0,0.5),rgba(6,0,0,0.5)),url('/images/donation6.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
