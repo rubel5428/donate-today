@@ -4,7 +4,7 @@
 }
 header{
   height: 100vh;
-  background: linear-gradient(rgba(6,0,0,0.5),rgba(6,0,0,0.5)),url('/images/donation11.jpg');
+  background: linear-gradient(rgba(6,0,0,0.5),rgba(6,0,0,0.5)),url('/images/donation6.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -33,6 +33,7 @@ header{
   background: #ff6058;
   padding: 10px 15px;
   color: white;
+  font-size: 18px;
   font-weight: 700;
   border: none;
   border-radius: 6px;
@@ -79,7 +80,9 @@ section input{
   border: none;
   padding: 10px;
   font-size: 18px;
+  
 }
+
 hr{
   border: 1px solid #848484;
   margin-bottom: 15px;
